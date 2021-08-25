@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/apartments-card/static/css/main.0203d4a0.chunk.css",
+    "main.js": "/apartments-card/static/js/main.c79e0080.chunk.js",
+    "main.js.map": "/apartments-card/static/js/main.c79e0080.chunk.js.map",
+    "runtime-main.js": "/apartments-card/static/js/runtime-main.0c177066.js",
+    "runtime-main.js.map": "/apartments-card/static/js/runtime-main.0c177066.js.map",
+    "static/js/2.94888c42.chunk.js": "/apartments-card/static/js/2.94888c42.chunk.js",
+    "static/js/2.94888c42.chunk.js.map": "/apartments-card/static/js/2.94888c42.chunk.js.map",
+    "index.html": "/apartments-card/index.html",
+    "static/css/main.0203d4a0.chunk.css.map": "/apartments-card/static/css/main.0203d4a0.chunk.css.map",
+    "static/js/2.94888c42.chunk.js.LICENSE.txt": "/apartments-card/static/js/2.94888c42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c177066.js",
+    "static/js/2.94888c42.chunk.js",
+    "static/css/main.0203d4a0.chunk.css",
+    "static/js/main.c79e0080.chunk.js"
+  ]
+}
