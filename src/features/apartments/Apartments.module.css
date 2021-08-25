@@ -1,0 +1,46 @@
+.card {
+  width: 40%;
+  background-color: white;
+  min-height: 200px;
+  margin: 15px;
+  display: flex;
+  text-align: left;
+  position: relative;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 1280px) {
+  .card {
+    width: 60%;
+  }
+}
+
+@media (max-width: 868px) {
+  .card {
+    flex-direction: column;
+    width: 60%;
+    text-align: center;
+    align-items: center;
+  }
+}
+.info {
+  padding: 10px;
+}
+.info h1 {
+  font-size: large;
+}
+
+.info p {
+  margin: 5px 0;
+}
+
+.like {
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  cursor: pointer;
+}
